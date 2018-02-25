@@ -1,0 +1,57 @@
+body{
+	padding-top: 50px;
+	font-family: serif;
+}
+#header-wrapper{
+	position:relative;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	height: 500px;
+	background-image: url('../images/transport.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 600px;
+	background-position: top-center;
+	background-attachment: fixed;
+}
+#logo-text{
+	height: 180px;
+	position: absolute;
+	width: 100%;
+	height: 180px;
+	/*background-image: url('../images/Capture.png');*/
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 50% 180px;
+	background:transparent;
+	top: 50%;
+}
+#fore-flower{
+	position: absolute;
+	width: 100%;
+	height:200px;
+	/*background-image: url('../images/fore-flower.jpg');*/
+	background-repeat: no-repeat;
+	background-position: right-bottom;
+	top: 400px;
+	right: -400px;
+}
+#footer{
+	margin-top: 100px;
+}
+.img-thumb{
+	width: auto;
+	height: 200px;
+}
+.table-auto{
+	width: auto;
+	margin: 0 auto;
+}
+#add-product-btn{
+	margin-top: -35px;
+	margin-right: 10px;
+}
+.saved-image img{
+	width:200px;
+	height: auto;
+}
